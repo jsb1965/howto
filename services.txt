@@ -1,0 +1,142 @@
+sc config "bits" start= disabled
+sc stop "bits"
+sc config "iphlpsvc" start= disabled
+sc stop "iphlpsvc"
+sc config "1eclienthealth" start= disabled
+sc stop "1eclienthealth"
+sc config "nomadbranch" start= disabled
+sc stop "nomadbranch"
+sc config "PXELiteServer" start= disabled
+sc stop "PXELiteServer"
+sc config "WakeUpAgt" start= disabled
+sc stop "WakeUpAgt"
+sc config "AxInstSV" start= disabled
+sc stop "AxInstSV"
+sc config "AdobeUpdateService" start= disabled
+sc stop "AdobeUpdateService"
+sc config "AdobeARMservice" start= disabled
+sc stop "AdobeARMservice"
+sc config "iClarityQoSService" start= disabled
+sc stop "iClarityQoSService"
+sc config "autotimesvc" start= disabled
+sc stop "autotimesvc"
+sc config "CDPSvc" start= disabled
+sc stop "CDPSvc"
+sc config "CDPUserSvc_1e31b3d3" start= disabled
+sc stop "CDPUserSvc_1e31b3d3"
+sc config "DiagTrack" start= disabled
+sc stop "DiagTrack"
+sc config "PimIndexMaintenanceSvc_1e31b3d3" start= disabled
+sc stop "PimIndexMaintenanceSvc_1e31b3d3"
+sc config "DDVDataCollector" start= disabled
+sc stop "DDVDataCollector"
+sc config "DDVRRulesProcessor" start= disabled
+sc stop "DDVRRulesProcessor"
+sc config "DDVCollectorSVcApi" start= disabled
+sc stop "DDVCollectorSVcApi"
+sc config "Dell Hardware Support" start= disabled
+sc stop "Dell Hardware Support"
+sc config "SupportAssistAgent" start= disabled
+sc stop "SupportAssistAgent"
+sc config "DPS" start= disabled
+sc stop "DPS"
+sc config "WdiServiceHost" start= disabled
+sc stop "WdiServiceHost"
+sc config "WdiSystemHost" start= disabled
+sc stop "WdiSystemHost"
+sc config "Fax" start= disabled
+sc stop "Fax"
+sc config "lfsvc" start= disabled
+sc stop "lfsvc"
+sc config "vmickvpexchange" start= disabled
+sc stop "vmickvpexchange"
+sc config "vmicquestinterface" start= disabled
+sc stop "vmicquestinterface"
+sc config "vmicshutdown" start= disabled
+sc stop"vmicshutdown"
+sc config "vmicheartbeat" start= disabled
+sc stop "vmicheartbeat"
+sc config "vmcompute" start= disabled
+sc stop "vmcompute"
+sc config "vmicvmsession" start= disabled
+sc stop "vmicvmsession"
+sc config "vmicrdv" start= disabled
+sc stop "vmicrdv"
+sc config "vmictimsync" start= disbled
+sc stop "vmictimsync"
+sc config "vmms" start= disabled
+sc stop "vmms"
+sc config "vmicvss" start= disabled
+sc stop "vmicvss" 
+sc config "SCardSvr" start= disabled
+sc stop "SCardSvr"
+sc config "ScDeviceEnum" start= disabled
+sc stop "ScDeviceEnum"
+sc config "SCPolicySvc" start= disabled
+sc stop "SCPolicySvc"
+sc config "XboxGipSvc" start= disabled
+sc stop "XboxGipSvc" 
+sc config "XblAuthManager" start= disabled
+sc stop "XblAuthManager"
+sc config "XblGameSave" start= disabled
+sc stop "XblGameSave"
+sc config "XboxNetApiSvc" start= disabled
+sc stop"XboxNetApiSvc"
+sc config "YandexBrowserService" start= disabled
+sc stop "YandexBrowserService" 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

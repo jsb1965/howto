@@ -1,2 +1,3 @@
-Instructions
-# run the scrip as .bat 
+# Instructions
+
+Run the script as .bat 
